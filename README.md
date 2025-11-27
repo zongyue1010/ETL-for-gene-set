@@ -1,6 +1,6 @@
 **1. data cleaning and preprocessing**
-- [ ] Download all the datasets listed in the shared table
 - [x] Design designated attributes for super-PAGs from PAGER
+- [ ] Download all the datasets listed in the shared table
 - [ ] Check missing or any low quality data to be discarded
 - [ ] Create a pipeline to extract the data with designated attributes from PAGER
 
@@ -10,7 +10,8 @@
 - [ ] The processed data upload to PAGER database
 
 **3. parallelly process the data in a large scale**
-- [ ] Create a pipeline to process bulk data and compare the performance
+- [ ] Draw a pipeline to process bulk data and compare the performance
+- [ ] Build the pipeline above (Python)
 - [ ] Generate the final metrics in showing the newly generated super-PAGs performance
 - [ ] Case studies for using super-PAGs from our results and implement to PAG-Agent.
  
